@@ -777,11 +777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\B\\אופן רות\\core\\TaskProject\\פרויקט.csproj",
+      "projectUniqueName": "Z:\\B\\אופן רות\\core\\ProjectTask\\פרויקט.csproj",
       "projectName": "פרויקט",
-      "projectPath": "Z:\\B\\אופן רות\\core\\TaskProject\\פרויקט.csproj",
+      "projectPath": "Z:\\B\\אופן רות\\core\\ProjectTask\\פרויקט.csproj",
       "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\B\\אופן רות\\core\\TaskProject\\obj\\",
+      "outputPath": "Z:\\B\\אופן רות\\core\\ProjectTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
